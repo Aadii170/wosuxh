@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wosuxh
-- 👀 I’m interested in playing and making games.
+- 👀 I’m interested in playing video games.
 - 🌱 I’m currently doing Competitive Coding.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
